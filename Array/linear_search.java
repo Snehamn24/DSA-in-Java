@@ -1,3 +1,4 @@
+//time complexity is O(n) ->worst case , O(1) -> best case
 import java.util.Scanner;
 class linear_search
 {
