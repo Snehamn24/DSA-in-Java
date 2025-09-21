@@ -1,3 +1,4 @@
+//time complexity O(log n) because during each search we divide the array into 2 parts
 import java.util.Scanner;
 import java.util.Arrays;
 
