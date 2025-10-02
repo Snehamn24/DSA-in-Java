@@ -24,8 +24,8 @@ public class delete_duplicates{
 
     public static void main(String[] args)
     {
-        int[] original_array = {1,2,2,3,4,4,4,5,5};
-        int[] unique_array = removeDuplicatesUsingSet(original_array);
+        int[] original_array = {1,2,2,3,4,4,4,5,5};//taking original array
+        int[] unique_array = removeDuplicatesUsingSet(original_array);//calling function
         System.out.println(Arrays.toString(unique_array));
     }
 }
